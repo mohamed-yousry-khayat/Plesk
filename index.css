@@ -1,0 +1,28 @@
+.titre{
+    border-width: 2px;
+    border-style: inset;
+    border-color: #830404;
+    padding: 3px;
+}
+
+h1,h2{
+    color: #4169E1
+}
+
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+body{
+    background-color: #CECECE
+}
+
+div{
+    border-width: 2px;
+    border-style: double;
+    border-color: #830404;
+    padding: 3px;
+    background-color: #FFF;
+    box-shadow: #2F2F2F 10px 10px 10px 10px
+    ;
+}
